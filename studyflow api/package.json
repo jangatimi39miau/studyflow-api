@@ -1,0 +1,6 @@
+{
+  "name": "studyflow-api",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
